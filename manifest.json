@@ -1,0 +1,9 @@
+{
+  "name": "Chuck Norris Funny Facts",
+  "description": "Get a random funny Chuck Norris fact!",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "150": "chuck-norris.png"
+  }
+}
