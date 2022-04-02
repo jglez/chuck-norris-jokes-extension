@@ -5,5 +5,8 @@
   "manifest_version": 3,
   "icons": {
     "150": "chuck-norris.png"
+  },
+  "action": {
+    "default_popup": "modal.html"
   }
 }
