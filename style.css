@@ -1,10 +1,22 @@
 body {
   text-align: center;
   width: 300px;
-  background-color: #DD4A48;
+  background-color: #E06D10;
   color: white;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  letter-spacing: 1px;
   border: 1px solid white;
   padding: 0 10px;
   margin: 0;
+  font-family: fantasy;
+  text-shadow: 1px 2px black;
+}
+
+#joke-btn {
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: .85rem;
 }
